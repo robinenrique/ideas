@@ -1,1 +1,3 @@
 # ideas
+
+Just a thought.
